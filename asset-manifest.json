@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Project_2____GROSS_BEE/static/css/main.0aaa162c.css",
+    "main.js": "/Project_2____GROSS_BEE/static/js/main.c1a91ec0.js",
+    "static/media/bg.png": "/Project_2____GROSS_BEE/static/media/bg.fb8bc1f20e6873e3f342.png",
+    "static/media/footer.png": "/Project_2____GROSS_BEE/static/media/footer.3ce58206f15c19b1d4d1.png",
+    "static/media/contactUsBg.jpg": "/Project_2____GROSS_BEE/static/media/contactUsBg.1beb3703f9afc3793ee5.jpg",
+    "static/media/slick.svg": "/Project_2____GROSS_BEE/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Project_2____GROSS_BEE/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Project_2____GROSS_BEE/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Project_2____GROSS_BEE/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Project_2____GROSS_BEE/index.html",
+    "main.0aaa162c.css.map": "/Project_2____GROSS_BEE/static/css/main.0aaa162c.css.map",
+    "main.c1a91ec0.js.map": "/Project_2____GROSS_BEE/static/js/main.c1a91ec0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0aaa162c.css",
+    "static/js/main.c1a91ec0.js"
+  ]
+}
